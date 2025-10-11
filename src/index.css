@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@utility flex-center {
+  @apply flex justify-center items-center
+}
+@utility nav-box {
+  @apply h-[60%] p-2 flex justify-center items-center hover:bg-black cursor-pointer text-[min(10vw,15px)] rounded-md;
+}
+
+body {
+  background-color: black;
+  color: rgb(249, 249, 249);
+}
