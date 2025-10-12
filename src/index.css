@@ -5,8 +5,11 @@
     @apply flex justify-center items-center
   }
   
-  .nav-box {
-    @apply h-[60%] p-2 flex justify-center items-center bg-gray-100 font-medium text-black hover:bg-[rgb(29,29,29)] hover:text-white cursor-pointer text-[min(10vw,15px)] rounded-md;
+  .nav-active {
+    @apply h-[60%] p-2 flex justify-center items-center font-medium text-white bg-black cursor-pointer text-[min(10vw,15px)] rounded-md;
+  }
+  .nav-not-active {
+    @apply h-[60%] p-2 flex justify-center items-center font-medium text-white  hover:bg-[rgb(0,0,0)] hover:text-white  cursor-pointer text-[min(10vw,15px)] rounded-md;
   }
   .smallResFont{
     @apply text-[min(4vw,15px)]
@@ -15,5 +18,4 @@
 
 body {
   background-color: rgb(255, 255, 255);
-  color: rgb(249, 249, 249);
 }
