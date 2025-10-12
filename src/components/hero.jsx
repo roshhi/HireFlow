@@ -4,7 +4,7 @@ const Hero = ({title= "Become a React Dev", subtitle= "Find the React job that f
     
     return (
         <>
-            <div className="w-full flex-center flex-col h-[25vh] bg-indigo-500">
+            <div className="w-full flex-center flex-col h-[25vh] bg-indigo-500 text-white">
                 <p className="text-[min(7.5vw,60px)] font-bold">{title}</p>
                 <p className="text-[min(5vw,18px)]">{subtitle}</p>
             </div>

@@ -25,7 +25,7 @@ const Job = ({type,title,desc,sal,loc})=>{
                 <FaMapMarker className="inline mr-2"/>
                 {loc}
             </p>
-            <div className="bg-[rgb(57,55,241)] rounded-sm p-1 flex-center mt-3">
+            <div className="bg-[rgb(57,55,241)] rounded-sm p-1 flex-center mt-3 text-white">
                 <p>Read More</p>
             </div>
 
