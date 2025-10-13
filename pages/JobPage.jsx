@@ -1,10 +1,10 @@
 import React from 'react'
-import { useParams,useLoaderData } from 'react-router-dom';
+import { useLoaderData } from 'react-router-dom';
 import { FaArrowLeft } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 const JobPage = () => {
-    const { id } = useParams();
+
     const job = useLoaderData();
 
     return(
@@ -57,11 +57,5 @@ const JobPage = () => {
         </>
     );
 }
-const jobLoader = async({ params })=>{
-    const url = `/api/jobs/${params.id}`;
-    const res = await fetch (url)
-    const data = await res.json();
-    return data;
-}
 
-export {JobPage as default, jobLoader};
+export default JobPage;
