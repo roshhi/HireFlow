@@ -15,8 +15,7 @@ const JobListings = ( {isHome = false} )=>{
                 const url = "/api/jobs";
                 const res = await fetch (url)
                 const data = await res.json();
-                console.log(data);
-                setJobs(data);
+                setJobs(data.reverse()); // show newly added jobs first
             } catch (error) {
                 console.log("Oops Error Fetching Data !!!",error)
             } finally{
