@@ -12,7 +12,7 @@ const JobListings = ( {isHome = false} )=>{
     useEffect( ()=>{
         const fetchJobs = async() => {
             try {
-                const url = "http://localhost:8000/jobs";
+                const url = "/api/jobs";
                 const res = await fetch (url)
                 const data = await res.json();
                 console.log(data);
@@ -44,7 +44,8 @@ const JobListings = ( {isHome = false} )=>{
                    {limJobs.map((job) => { 
                         return (
                             <Job
-                            key={job.id}               
+                            key={job.id}
+                            id={job.id}                              
                             type={job.type}
                             title={job.title}
                             desc={job.description}
@@ -58,8 +59,6 @@ const JobListings = ( {isHome = false} )=>{
                 <ViewAllJobs onClick = {loadMore}/>
             </>    
             }
-            
-
         </> 
     )
 }

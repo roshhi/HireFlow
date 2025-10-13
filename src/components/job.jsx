@@ -1,9 +1,10 @@
 import React from "react";
 import { useState } from 'react'
 import { FaMapMarker } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
-const Job = ({type,title,desc,sal,loc})=>{
-
+const Job = ({id,type,title,desc,sal,loc})=>{
+    
         let [showFullDesc,setFUllDesc] = useState(false);
         let myDesc = desc;
         if (!showFullDesc) {
@@ -25,10 +26,11 @@ const Job = ({type,title,desc,sal,loc})=>{
                 <FaMapMarker className="inline mr-2"/>
                 {loc}
             </p>
-            <div className="bg-[rgb(57,55,241)] rounded-sm p-1 flex-center mt-3 text-white">
-                <p>Read More</p>
-            </div>
-
+            <Link to={`/jobs/${id}`}>
+                <div className="bg-[rgb(57,55,241)] rounded-sm p-1 flex-center mt-3 text-white">
+                    <p>Read More</p>
+                </div>
+            </Link>
         </div>
     )
 }
