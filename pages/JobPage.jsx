@@ -2,6 +2,7 @@ import React from 'react'
 import { useLoaderData,useNavigate } from 'react-router-dom';
 import { FaArrowLeft } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
+import { toast } from "react-toastify";
 
 const JobPage = ({deleteJob}) => {
     const navigate = useNavigate();
@@ -12,6 +13,7 @@ const JobPage = ({deleteJob}) => {
             return
         }
         deleteJob(jobId);
+        toast.success('Job deleted Successfully')
         navigate('/jobs')
     }
 
@@ -56,7 +58,9 @@ const JobPage = ({deleteJob}) => {
                     <div className='w-[94.5%] flex flex-col ml-3 mr-3 mb-5 p-3 bg-white rounded-md md:ml-6 md:mr-6 md:w-[50vw] '>
                         <p className='mediumResFont text-indigo-600 font-bold mb-1'> Manage Job</p>
                         <div className='w-full border text-white font-semibold flex-center gap-4'>
-                            <button className='bg-indigo-500 p-2 rounded-md w-[110px] smallResFont'> Edit Job </button>
+                            <Link to={`/edit-job/${job.id}`}>
+                                <button className='bg-indigo-500 p-2 rounded-md w-[110px] smallResFont'> Edit Job </button>
+                            </Link>
                             <button onClick={()=> onDeleteClick(job.id)} className='bg-red-500 p-2 rounded-md w-[110px] smallResFont'> Delete Job</button>
                         </div>
                     </div>
