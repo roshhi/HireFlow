@@ -12,10 +12,17 @@
     @apply h-[60%] p-2 flex justify-center items-center font-medium text-white  hover:bg-[rgb(0,0,0)] hover:text-white  cursor-pointer text-[min(10vw,15px)] rounded-md;
   }
   .smallResFont{
-    @apply text-[min(4vw,15px)]
+    @apply text-[min(4vw,18px)]
   }
+  .mediumResFont{
+    @apply text-[min(5vw,20px)]
+  }
+  .largeResFont{
+    @apply text-[min(7vw,28px)]
+  }
+  
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color:rgb(217,224,255);
 }

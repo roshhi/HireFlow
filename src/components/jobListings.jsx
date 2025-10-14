@@ -31,6 +31,7 @@ const JobListings = ( {isHome = false} )=>{
     const loadMore = ()=>{
         setVisibleCount((prev)=>prev+3);
     }
+
     return (
         <>
             <p className=" flex-center text-[rgb(57,55,241)] bg-[rgb(236,244,255)]  font-bold text-[min(6.8vw,35px)] pt-[25px] pb-[45px]">
@@ -54,7 +55,7 @@ const JobListings = ( {isHome = false} )=>{
                         )
                     })}
                 </div>
-
+                
                 <ViewAllJobs onClick = {loadMore}/>
             </>    
             }
