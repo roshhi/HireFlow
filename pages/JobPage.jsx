@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import { toast } from "react-toastify";
 
 const JobPage = ({deleteJob}) => {
+
     const navigate = useNavigate();
     const job = useLoaderData();
     const onDeleteClick = (jobId)=>{
@@ -16,7 +17,6 @@ const JobPage = ({deleteJob}) => {
         toast.success('Job deleted Successfully')
         navigate('/jobs')
     }
-
     return(
         <>
             <div className='flex flex-col'>
