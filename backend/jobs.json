@@ -1,0 +1,1404 @@
+{
+  "jobs":[
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Phoenix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Phoenix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Entry-level position for a motivated developer. Work closely with senior engineers to build modern web applications using React and TypeScript.",
+      "location": "San Francisco, CA",
+      "salary": "$65K - $75K",
+      "company": {
+        "name": "CloudNine Corp",
+        "description": "CloudNine is a fast-paced tech startup focused on cloud-based collaboration tools.",
+        "contactEmail": "jobs@cloudninecorp.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Lead Front-End Architect",
+      "type": "Full-Time",
+      "description": "Seeking an experienced architect to lead our front-end technology stack. Deep expertise in React, Webpack, and performance optimization required.",
+      "location": "New York, NY",
+      "salary": "$150K - $170K",
+      "company": {
+        "name": "Evergreen Systems",
+        "description": "Evergreen Systems provides financial technology platforms for major institutions globally.",
+        "contactEmail": "hiring@evergreen.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React Developer (Contract)",
+      "type": "Contract",
+      "description": "6-month contract opportunity for a skilled React developer. Must be able to start immediately and work remotely.",
+      "location": "Remote",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Virtual Innovators",
+        "description": "Virtual Innovators is a fully remote digital agency that builds custom solutions for clients worldwide.",
+        "contactEmail": "recruiting@virtualinnovators.net",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Front-End UI Developer",
+      "type": "Full-Time",
+      "description": "We need a developer obsessed with design fidelity and user experience. Strong React and CSS-in-JS skills are a must.",
+      "location": "Chicago, IL",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "Design First Studios",
+        "description": "A design-focused software company creating beautiful, intuitive interfaces for enterprise clients.",
+        "contactEmail": "hr@designfirst.io",
+        "contactPhone": "555-888-9999"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "description": "Join our growing engineering team in Austin, TX. You will be responsible for developing new features and maintaining existing React applications.",
+      "location": "Austin, TX",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Texas Tech Hub",
+        "description": "The premier technology hub in Central Texas, connecting top talent with cutting-edge projects.",
+        "contactEmail": "careers@texashub.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Senior Front-End Engineer",
+      "type": "Full-Time",
+      "description": "Seeking a senior engineer with 5+ years of experience in JavaScript and React. Leadership skills are a plus.",
+      "location": "Seattle, WA",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Rainier Tech Co",
+        "description": "Rainier Tech is a mid-sized firm focusing on cloud infrastructure and performance tuning.",
+        "contactEmail": "jobs@rainiertech.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React Native Mobile Dev",
+      "type": "Full-Time",
+      "description": "Develop and deploy cross-platform mobile applications using React Native. Experience with native module development preferred.",
+      "location": "Denver, CO",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Mountain App Labs",
+        "description": "A specialized lab focused exclusively on high-performance mobile application development.",
+        "contactEmail": "hr@mountainapplabs.co",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Front-End Developer (Angular/React)",
+      "type": "Full-Time",
+      "description": "We need a versatile developer comfortable switching between Angular and React projects. Strong grasp of component architecture is essential.",
+      "location": "Dallas, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Lone Star Digital",
+        "description": "Building powerful digital experiences for clients in the energy and finance sectors across Texas.",
+        "contactEmail": "contact@lonestardigital.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React Developer (Remote)",
+      "type": "Full-Time",
+      "description": "Fully remote position open to candidates anywhere in the US. Focus on core React development and state management with Zustand/Recoil.",
+      "location": "Remote",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "Global Connect Inc",
+        "description": "A remote-first company creating tools for seamless global communication and collaboration.",
+        "contactEmail": "remotejobs@globalconnect.com",
+        "contactPhone": "555-234-5678"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Full Stack Engineer (MERN)",
+      "type": "Full-Time",
+      "description": "Develop both front-end (React) and back-end (Node/Express/Mongo) services for our flagship product. Experience with AWS a huge plus.",
+      "location": "San Diego, CA",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Pacific Solutions",
+        "description": "Focused on creating scalable cloud-based business software for small and medium enterprises.",
+        "contactEmail": "careers@pacificsol.com",
+        "contactPhone": "555-876-5432"
+      }
+    },
+    {
+      "id": "17",
+      "title": "React UI/UX Specialist",
+      "type": "Part-Time",
+      "description": "Part-time role focusing on the interaction design and visual implementation of our React components. Must have portfolio demonstrating strong UI/UX skills.",
+      "location": "Boston, MA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Senior Front-End Developer (React)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "We are expanding our core product team and seeking a motivated senior developer to lead feature development in React.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Next.js Developer",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Opportunity to work on a modern Next.js stack utilizing Server-Side Rendering and Static Site Generation techniques.",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Junior Front-End Developer",
+      "type": "Part-Time",
+      "description": "Entry-level part-time position. Excellent opportunity to learn React, Redux, and modern development practices.",
+      "location": "Phoenix, AZ",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Full Stack Engineer (React/Django)",
+      "type": "Full-Time",
+      "description": "Seeking a developer skilled in both React and Python/Django for a hybrid role. This position requires strong API integration experience.",
+      "location": "Atlanta, GA",
+      "salary": "$110K - $125K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Senior React Native Engineer",
+      "type": "Full-Time",
+      "description": "Lead the development of our flagship mobile application. Must have experience with CI/CD pipelines for mobile.",
+      "location": "Portland, OR",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Front-End Developer (TypeScript/React)",
+      "type": "Full-Time",
+      "description": "Focus on building highly type-safe and scalable front-end components using React and TypeScript.",
+      "location": "San Francisco, CA",
+      "salary": "$100K - $115K",
+      "company": {
+        "name": "CloudNine Corp",
+        "description": "CloudNine is a fast-paced tech startup focused on cloud-based collaboration tools.",
+        "contactEmail": "jobs@cloudninecorp.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Remote React Developer",
+      "type": "Full-Time",
+      "description": "Join our remote-first team building complex data visualization tools. Must have D3.js or similar library experience with React.",
+      "location": "Remote",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Evergreen Systems",
+        "description": "Evergreen Systems provides financial technology platforms for major institutions globally.",
+        "contactEmail": "hiring@evergreen.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "25",
+      "title": "React Freelancer (Short-Term)",
+      "type": "Contract",
+      "description": "Immediate need for a 3-month contract to help finish a critical React feature launch. Strong communication skills required.",
+      "location": "Remote",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Virtual Innovators",
+        "description": "Virtual Innovators is a fully remote digital agency that builds custom solutions for clients worldwide.",
+        "contactEmail": "recruiting@virtualinnovators.net",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "26",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "description": "Work on an innovative e-commerce platform using React, Styled Components, and modern state management.",
+      "location": "Chicago, IL",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Design First Studios",
+        "description": "A design-focused software company creating beautiful, intuitive interfaces for enterprise clients.",
+        "contactEmail": "hr@designfirst.io",
+        "contactPhone": "555-888-9999"
+      }
+    },
+    {
+      "id": "27",
+      "title": "Full Stack React/Node Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a versatile developer to own features end-to-end, from React UI to Node.js APIs.",
+      "location": "Austin, TX",
+      "salary": "$105K - $120K",
+      "company": {
+        "name": "Texas Tech Hub",
+        "description": "The premier technology hub in Central Texas, connecting top talent with cutting-edge projects.",
+        "contactEmail": "careers@texashub.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "28",
+      "title": "Front-End Performance Specialist",
+      "type": "Full-Time",
+      "description": "Dedicated role to optimizing the load times and rendering performance of our large-scale React application.",
+      "location": "Seattle, WA",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "Rainier Tech Co",
+        "description": "Rainier Tech is a mid-sized firm focusing on cloud infrastructure and performance tuning.",
+        "contactEmail": "jobs@rainiertech.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "29",
+      "title": "React Native/Expo Developer",
+      "type": "Full-Time",
+      "description": "Build mobile apps using the Expo framework. Must have experience deploying to both app stores.",
+      "location": "Denver, CO",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "Mountain App Labs",
+        "description": "A specialized lab focused exclusively on high-performance mobile application development.",
+        "contactEmail": "hr@mountainapplabs.co",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Front-End Developer (Remote)",
+      "type": "Full-Time",
+      "description": "Work from anywhere on our internal tooling. Vue.js or React experience is acceptable.",
+      "location": "Remote",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Lone Star Digital",
+        "description": "Building powerful digital experiences for clients in the energy and finance sectors across Texas.",
+        "contactEmail": "contact@lonestardigital.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "31",
+      "title": "React Developer (Night Shift)",
+      "type": "Full-Time",
+      "description": "Opportunity for a full-time React developer comfortable with a night shift schedule to support international clients.",
+      "location": "San Diego, CA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Pacific Solutions",
+        "description": "Focused on creating scalable cloud-based business software for small and medium enterprises.",
+        "contactEmail": "careers@pacificsol.com",
+        "contactPhone": "555-876-5432"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Mid-Level Front-End Developer to join our core team in Boston, MA. Experience with React Hooks and context API is essential.",
+      "location": "Boston, MA",
+      "salary": "$80K - $95K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "We are hiring a dedicated Front-End Developer focused on maintaining and enhancing our current React codebase.",
+      "salary": "$65K - $75K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "34",
+      "title": "React Developer with Gatsby",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Work on marketing websites and high-traffic blogs using React combined with the Gatsby static site generator.",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Part-Time Front-End Dev",
+      "type": "Part-Time",
+      "description": "Flexible hours for a part-time developer to assist with component library maintenance. Ideal for students or those with other commitments.",
+      "location": "Phoenix, AZ",
+      "salary": "$55K - $65K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "36",
+      "title": "Senior Full Stack React Engineer",
+      "type": "Full-Time",
+      "description": "Take technical ownership of a major product line. Requires deep knowledge of React, Node.js, and complex database schemas.",
+      "location": "Atlanta, GA",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "37",
+      "title": "React Native (Part-Time)",
+      "type": "Part-Time",
+      "description": "Part-time opportunity for a skilled React Native developer. Focus on feature parity between web and mobile applications.",
+      "location": "Portland, OR",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "38",
+      "title": "Junior Front-End Developer",
+      "type": "Full-Time",
+      "description": "Great opportunity to kickstart your career. Work under mentorship on a modern React/Redux codebase.",
+      "location": "San Francisco, CA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "CloudNine Corp",
+        "description": "CloudNine is a fast-paced tech startup focused on cloud-based collaboration tools.",
+        "contactEmail": "jobs@cloudninecorp.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "39",
+      "title": "React and AWS Developer",
+      "type": "Full-Time",
+      "description": "Focus on deploying serverless React applications using AWS Lambda and API Gateway.",
+      "location": "New York, NY",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Evergreen Systems",
+        "description": "Evergreen Systems provides financial technology platforms for major institutions globally.",
+        "contactEmail": "hiring@evergreen.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "40",
+      "title": "Contract React Developer",
+      "type": "Contract",
+      "description": "Need a reliable developer for a 9-month contract. Must be an expert in building reusable React components.",
+      "location": "Remote",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Virtual Innovators",
+        "description": "Virtual Innovators is a fully remote digital agency that builds custom solutions for clients worldwide.",
+        "contactEmail": "recruiting@virtualinnovators.net",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "41",
+      "title": "Senior Front-End UI Lead",
+      "type": "Full-Time",
+      "description": "Lead a small team of UI developers, defining standards and best practices for all React front-ends.",
+      "location": "Chicago, IL",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Design First Studios",
+        "description": "A design-focused software company creating beautiful, intuitive interfaces for enterprise clients.",
+        "contactEmail": "hr@designfirst.io",
+        "contactPhone": "555-888-9999"
+      }
+    },
+    {
+      "id": "42",
+      "title": "React Developer (Redux Saga)",
+      "type": "Full-Time",
+      "description": "Seeking a developer highly proficient in Redux-Saga for managing complex side effects in a large application.",
+      "location": "Austin, TX",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Texas Tech Hub",
+        "description": "The premier technology hub in Central Texas, connecting top talent with cutting-edge projects.",
+        "contactEmail": "careers@texashub.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "43",
+      "title": "Mid-Level Front-End Developer",
+      "type": "Full-Time",
+      "description": "Work on migrating legacy jQuery components into modern, testable React components.",
+      "location": "Seattle, WA",
+      "salary": "$100K - $115K",
+      "company": {
+        "name": "Rainier Tech Co",
+        "description": "Rainier Tech is a mid-sized firm focusing on cloud infrastructure and performance tuning.",
+        "contactEmail": "jobs@rainiertech.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "44",
+      "title": "Mobile App Developer (React Native)",
+      "type": "Full-Time",
+      "description": "Focus on integrating third-party APIs and services into our cross-platform mobile application.",
+      "location": "Denver, CO",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Mountain App Labs",
+        "description": "A specialized lab focused exclusively on high-performance mobile application development.",
+        "contactEmail": "hr@mountainapplabs.co",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "45",
+      "title": "Front-End UI/UX Designer-Developer",
+      "type": "Full-Time",
+      "description": "Hybrid role requiring strong design sensibility and proven ability to implement beautiful UIs with React and pure CSS.",
+      "location": "Dallas, TX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Lone Star Digital",
+        "description": "Building powerful digital experiences for clients in the energy and finance sectors across Texas.",
+        "contactEmail": "contact@lonestardigital.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "46",
+      "title": "Remote Full Stack Engineer",
+      "type": "Full-Time",
+      "description": "Work remotely as a full stack engineer on a high-traffic media platform (React front-end).",
+      "location": "Remote",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Global Connect Inc",
+        "description": "A remote-first company creating tools for seamless global communication and collaboration.",
+        "contactEmail": "remotejobs@globalconnect.com",
+        "contactPhone": "555-234-5678"
+      }
+    },
+    {
+      "id": "47",
+      "title": "React Developer (Full-Time)",
+      "type": "Full-Time",
+      "description": "Join our team in Boston, MA. Focus on creating interactive dashboards and data visualization using React.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "48",
+      "title": "Front-End Developer",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Work on user-facing features for a luxury travel site. Must have strong skills in modern CSS and responsive design.",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "49",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Lead the development lifecycle for key features. Seeking candidates with 5+ years of dedicated React experience.",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "50",
+      "title": "React Part-Time Consultant",
+      "type": "Contract",
+      "description": "Short-term consulting role. Advise our team on best practices for React context and hooks.",
+      "location": "Phoenix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "51",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "description": "Work on the full stack of our finance application (React/Ruby on Rails). Must be comfortable with database interaction.",
+      "location": "Atlanta, GA",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "52",
+      "title": "React Native Maintenance Dev",
+      "type": "Full-Time",
+      "description": "Dedicated role for bug fixing, dependency updates, and maintenance of existing React Native apps.",
+      "location": "Portland, OR",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "53",
+      "title": "Front-End Developer (Accessibility Focus)",
+      "type": "Full-Time",
+      "description": "Expertise in WCAG standards and accessible component development using React is required.",
+      "location": "San Francisco, CA",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "CloudNine Corp",
+        "description": "CloudNine is a fast-paced tech startup focused on cloud-based collaboration tools.",
+        "contactEmail": "jobs@cloudninecorp.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "54",
+      "title": "Front-End Engineer (Remote)",
+      "type": "Full-Time",
+      "description": "Remote role focused on developing internal React dashboards for monitoring global system health.",
+      "location": "Remote",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "Evergreen Systems",
+        "description": "Evergreen Systems provides financial technology platforms for major institutions globally.",
+        "contactEmail": "hiring@evergreen.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "55",
+      "title": "Contract React Native Developer",
+      "type": "Contract",
+      "description": "12-month contract position for a developer to implement new features on a high-profile mobile application.",
+      "location": "Remote",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Virtual Innovators",
+        "description": "Virtual Innovators is a fully remote digital agency that builds custom solutions for clients worldwide.",
+        "contactEmail": "recruiting@virtualinnovators.net",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "56",
+      "title": "React Developer (Jest/Testing)",
+      "type": "Full-Time",
+      "description": "Seeking a developer who champions unit, integration, and end-to-end testing (Jest/Cypress) within a React environment.",
+      "location": "Chicago, IL",
+      "salary": "$90K - $105K",
+      "company": {
+        "name": "Design First Studios",
+        "description": "A design-focused software company creating beautiful, intuitive interfaces for enterprise clients.",
+        "contactEmail": "hr@designfirst.io",
+        "contactPhone": "555-888-9999"
+      }
+    },
+    {
+      "id": "57",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Great entry-level opportunity to join a mentor-driven team and rapidly advance your React skills.",
+      "location": "Austin, TX",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Texas Tech Hub",
+        "description": "The premier technology hub in Central Texas, connecting top talent with cutting-edge projects.",
+        "contactEmail": "careers@texashub.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "58",
+      "title": "Front-End Engineer (GraphQL)",
+      "type": "Full-Time",
+      "description": "Expertise in consuming GraphQL APIs using Apollo or Relay is a primary requirement for this role.",
+      "location": "Seattle, WA",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Rainier Tech Co",
+        "description": "Rainier Tech is a mid-sized firm focusing on cloud infrastructure and performance tuning.",
+        "contactEmail": "jobs@rainiertech.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "59",
+      "title": "React Native Lead",
+      "type": "Full-Time",
+      "description": "Lead the entire mobile team, guiding architectural decisions for our suite of React Native applications.",
+      "location": "Denver, CO",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "Mountain App Labs",
+        "description": "A specialized lab focused exclusively on high-performance mobile application development.",
+        "contactEmail": "hr@mountainapplabs.co",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "60",
+      "title": "Full-Time Front-End Developer",
+      "type": "Full-Time",
+      "description": "Seeking a dedicated front-end developer for long-term project engagement on client websites.",
+      "location": "Dallas, TX",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "Lone Star Digital",
+        "description": "Building powerful digital experiences for clients in the energy and finance sectors across Texas.",
+        "contactEmail": "contact@lonestardigital.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "61",
+      "title": "Full Stack Developer (React/PHP)",
+      "type": "Full-Time",
+      "description": "Hybrid role working on a legacy PHP backend and a modern React front-end application.",
+      "location": "San Diego, CA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Pacific Solutions",
+        "description": "Focused on creating scalable cloud-based business software for small and medium enterprises.",
+        "contactEmail": "careers@pacificsol.com",
+        "contactPhone": "555-876-5432"
+      }
+    },
+    {
+      "id": "62",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "description": "Join our collaborative team in Boston, MA. Focus on developing reusable components for our internal design system.",
+      "location": "Boston, MA",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "63",
+      "title": "Front-End Developer (Internship)",
+      "type": "Internship",
+      "location": "Miami, FL",
+      "description": "Paid summer internship for a student interested in gaining hands-on experience with React development.",
+      "salary": "$40K - $50K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "64",
+      "title": "React Developer (Contract)",
+      "type": "Contract",
+      "location": "Brooklyn, NY",
+      "description": "Six-month contract role to assist with a product redesign and component refactoring.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "65",
+      "title": "Part-Time React Developer (Remote)",
+      "type": "Part-Time",
+      "description": "Flexible, remote part-time role for an experienced developer. Requires 20 hours per week commitment.",
+      "location": "Remote",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "66",
+      "title": "Full Stack Engineer (Gatsby/Headless CMS)",
+      "type": "Full-Time",
+      "description": "Build high-performance marketing sites using Gatsby, React, and various Headless CMS providers.",
+      "location": "Atlanta, GA",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "67",
+      "title": "React Native Debugger/Tester",
+      "type": "Full-Time",
+      "description": "Specialized role focusing on finding, diagnosing, and documenting bugs in our production React Native apps.",
+      "location": "Portland, OR",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "68",
+      "title": "Senior React Engineer (Design Systems)",
+      "type": "Full-Time",
+      "description": "Lead the development and governance of our organization-wide React component library and design system.",
+      "location": "San Francisco, CA",
+      "salary": "$130K - $150K",
+      "company": {
+        "name": "CloudNine Corp",
+        "description": "CloudNine is a fast-paced tech startup focused on cloud-based collaboration tools.",
+        "contactEmail": "jobs@cloudninecorp.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "69",
+      "title": "Front-End Developer (Remote)",
+      "type": "Full-Time",
+      "description": "Build new features for our core trading platform's user interface using React and modern charting libraries.",
+      "location": "Remote",
+      "salary": "$100K - $115K",
+      "company": {
+        "name": "Evergreen Systems",
+        "description": "Evergreen Systems provides financial technology platforms for major institutions globally.",
+        "contactEmail": "hiring@evergreen.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "70",
+      "title": "React Contractor (6 Months)",
+      "type": "Contract",
+      "description": "Six-month contract requiring expertise in performance testing and optimization of React SPAs.",
+      "location": "Remote",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Virtual Innovators",
+        "description": "Virtual Innovators is a fully remote digital agency that builds custom solutions for clients worldwide.",
+        "contactEmail": "recruiting@virtualinnovators.net",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "71",
+      "title": "UI/UX Developer (React)",
+      "type": "Full-Time",
+      "description": "Work closely with our design team to translate high-fidelity mocks into production-ready React code.",
+      "location": "Chicago, IL",
+      "salary": "$95K - $110K",
+      "company": {
+        "name": "Design First Studios",
+        "description": "A design-focused software company creating beautiful, intuitive interfaces for enterprise clients.",
+        "contactEmail": "hr@designfirst.io",
+        "contactPhone": "555-888-9999"
+      }
+    },
+    {
+      "id": "72",
+      "title": "React Developer (Part-Time)",
+      "type": "Part-Time",
+      "description": "Flexible hours for a part-time developer to assist with various internal React utility applications.",
+      "location": "Austin, TX",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Texas Tech Hub",
+        "description": "The premier technology hub in Central Texas, connecting top talent with cutting-edge projects.",
+        "contactEmail": "careers@texashub.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "73",
+      "title": "Senior Front-End Dev (State Management)",
+      "type": "Full-Time",
+      "description": "Lead the transition of our application from Redux to a modern state management solution (e.g., Zustand, Jotai).",
+      "location": "Seattle, WA",
+      "salary": "$135K - $155K",
+      "company": {
+        "name": "Rainier Tech Co",
+        "description": "Rainier Tech is a mid-sized firm focusing on cloud infrastructure and performance tuning.",
+        "contactEmail": "jobs@rainiertech.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "74",
+      "title": "React Native (Remote)",
+      "type": "Full-Time",
+      "description": "Fully remote role for a developer specializing in React Native and integrating with third-party payment gateways.",
+      "location": "Remote",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Mountain App Labs",
+        "description": "A specialized lab focused exclusively on high-performance mobile application development.",
+        "contactEmail": "hr@mountainapplabs.co",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "75",
+      "title": "Front-End Engineer (Testing)",
+      "type": "Full-Time",
+      "description": "Dedicated engineer to write and maintain unit and e2e tests for our entire React front-end.",
+      "location": "Dallas, TX",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Lone Star Digital",
+        "description": "Building powerful digital experiences for clients in the energy and finance sectors across Texas.",
+        "contactEmail": "contact@lonestardigital.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "76",
+      "title": "Full Stack React/Go Developer",
+      "type": "Full-Time",
+      "description": "Work on the full stack using a React front-end and a Go (Golang) backend. Experience with microservices architecture is preferred.",
+      "location": "San Diego, CA",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Pacific Solutions",
+        "description": "Focused on creating scalable cloud-based business software for small and medium enterprises.",
+        "contactEmail": "careers@pacificsol.com",
+        "contactPhone": "555-876-5432"
+      }
+    },
+    {
+      "id": "77",
+      "title": "React Consultant",
+      "type": "Contract",
+      "description": "Expert consultant needed for 3-month project to audit our application and advise on performance bottlenecks.",
+      "location": "Boston, MA",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "78",
+      "title": "Junior Front-End Developer",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Entry-level position. Must demonstrate a strong portfolio of personal React projects.",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "79",
+      "title": "Front-End Developer (SSR/Next.js)",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Work on an SEO-critical website using React and the Next.js framework for server-side rendering.",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "80",
+      "title": "Part-Time React Developer",
+      "type": "Part-Time",
+      "description": "Join our marketing team to build landing pages and campaign microsites using React. Flexible, remote-friendly hours.",
+      "location": "Remote",
+      "salary": "$55K - $65K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "81",
+      "title": "Full Stack React/Java Developer",
+      "type": "Full-Time",
+      "description": "Work on enterprise systems integrating a React front-end with Java Spring Boot microservices.",
+      "location": "Atlanta, GA",
+      "salary": "$135K - $155K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "82",
+      "title": "React Native Developer (Senior)",
+      "type": "Full-Time",
+      "description": "Senior position to mentor junior developers and drive architectural decisions for all mobile development.",
+      "location": "Portland, OR",
+      "salary": "$115K - $130K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "83",
+      "title": "Front-End Developer (WebAssembly)",
+      "type": "Full-Time",
+      "description": "Work on performance-critical React applications integrating C++ libraries via WebAssembly.",
+      "location": "San Francisco, CA",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "CloudNine Corp",
+        "description": "CloudNine is a fast-paced tech startup focused on cloud-based collaboration tools.",
+        "contactEmail": "jobs@cloudninecorp.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "84",
+      "title": "Lead Front-End Developer",
+      "type": "Full-Time",
+      "description": "Seeking a lead developer to manage the deployment and monitoring of all React applications in production.",
+      "location": "New York, NY",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Evergreen Systems",
+        "description": "Evergreen Systems provides financial technology platforms for major institutions globally.",
+        "contactEmail": "hiring@evergreen.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "85",
+      "title": "React/Node.js Contractor",
+      "type": "Contract",
+      "description": "6-month contract for a full-stack developer focusing on API integration and data modeling with a React front-end.",
+      "location": "Remote",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "Virtual Innovators",
+        "description": "Virtual Innovators is a fully remote digital agency that builds custom solutions for clients worldwide.",
+        "contactEmail": "recruiting@virtualinnovators.net",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "86",
+      "title": "Mid-Level React Developer",
+      "type": "Full-Time",
+      "description": "Join our team to build accessible, high-quality components for our expanding SaaS product.",
+      "location": "Chicago, IL",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "Design First Studios",
+        "description": "A design-focused software company creating beautiful, intuitive interfaces for enterprise clients.",
+        "contactEmail": "hr@designfirst.io",
+        "contactPhone": "555-888-9999"
+      }
+    },
+    {
+      "id": "87",
+      "title": "Front-End Developer (Testing Specialist)",
+      "type": "Full-Time",
+      "description": "Dedicated role focused on building and maintaining a strong test coverage pipeline using React Testing Library.",
+      "location": "Austin, TX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Texas Tech Hub",
+        "description": "The premier technology hub in Central Texas, connecting top talent with cutting-edge projects.",
+        "contactEmail": "careers@texashub.com",
+        "contactPhone": "555-123-4567"
+      }
+    },
+    {
+      "id": "88",
+      "title": "Front-End Engineer (GraphQL/Apollo)",
+      "type": "Full-Time",
+      "description": "Expert in Apollo Client and caching strategies to maximize performance on a data-intensive React application.",
+      "location": "Seattle, WA",
+      "salary": "$125K - $145K",
+      "company": {
+        "name": "Rainier Tech Co",
+        "description": "Rainier Tech is a mid-sized firm focusing on cloud infrastructure and performance tuning.",
+        "contactEmail": "jobs@rainiertech.com",
+        "contactPhone": "555-987-6543"
+      }
+    },
+    {
+      "id": "89",
+      "title": "React Native Developer (iOS/Android)",
+      "type": "Full-Time",
+      "description": "We are seeking a versatile React Native developer to handle all aspects of mobile development from code to store deployment.",
+      "location": "Denver, CO",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Mountain App Labs",
+        "description": "A specialized lab focused exclusively on high-performance mobile application development.",
+        "contactEmail": "hr@mountainapplabs.co",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "90",
+      "title": "Senior Front-End Architect",
+      "type": "Full-Time",
+      "description": "Define the future architecture of our front-end projects, focusing on maintainability and scale.",
+      "location": "Dallas, TX",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Lone Star Digital",
+        "description": "Building powerful digital experiences for clients in the energy and finance sectors across Texas.",
+        "contactEmail": "contact@lonestardigital.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "91",
+      "title": "React/Node.js Full Stack",
+      "type": "Full-Time",
+      "description": "A generalist role working on both the React front-end and our internal Node.js microservices.",
+      "location": "San Diego, CA",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "Pacific Solutions",
+        "description": "Focused on creating scalable cloud-based business software for small and medium enterprises.",
+        "contactEmail": "careers@pacificsol.com",
+        "contactPhone": "555-876-5432"
+      }
+    },
+    {
+      "id": "92",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "description": "Join our team in Boston, MA. Contribute to a fast-moving project building a new customer-facing portal.",
+      "location": "Boston, MA",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "93",
+      "title": "Senior UI/UX Engineer",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Seeking a developer who excels at implementing complex animations and micro-interactions in React.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "94",
+      "title": "React Developer (Full-Time)",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Work on core product features using modern React, TypeScript, and a micro-frontend architecture.",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "95",
+      "title": "Remote Part-Time React Dev",
+      "type": "Part-Time",
+      "description": "Part-time, remote position focusing on bug triage and hotfixes for production applications.",
+      "location": "Remote",
+      "salary": "$65K - $75K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "96",
+      "title": "Full Stack Engineer (React/AWS)",
+      "type": "Full-Time",
+      "description": "Develop and deploy scalable full-stack applications leveraging React for the client and various AWS services for the backend.",
+      "location": "Atlanta, GA",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "97",
+      "title": "React Native Mobile Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React Native engineer to join our mobile team in Portland, OR. Experience with native iOS/Android development is a plus.",
+      "location": "Portland, OR",
+      "salary": "$105K - $115K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "98",
+      "title": "Senior Front-End Developer (Performance)",
+      "type": "Full-Time",
+      "description": "Dedicated role to optimizing bundle size, load times, and rendering efficiency for a massive user base.",
+      "location": "San Francisco, CA",
+      "salary": "$140K - $160K",
+      "company": {
+        "name": "CloudNine Corp",
+        "description": "CloudNine is a fast-paced tech startup focused on cloud-based collaboration tools.",
+        "contactEmail": "jobs@cloudninecorp.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "99",
+      "title": "React Developer (Remote, Contract)",
+      "type": "Contract",
+      "description": "Fully remote 4-month contract to assist with a temporary spike in development needs for a new feature set.",
+      "location": "Remote",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Virtual Innovators",
+        "description": "Virtual Innovators is a fully remote digital agency that builds custom solutions for clients worldwide.",
+        "contactEmail": "recruiting@virtualinnovators.net",
+        "contactPhone": "555-666-7777"
+      }
+    },
+    {
+      "id": "100",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity to work across the entire product stack. Strong React and Node.js skills are a must for this fast-growing company.",
+      "location": "New York, NY",
+      "salary": "$115K - $135K",
+      "company": {
+        "name": "Evergreen Systems",
+        "description": "Evergreen Systems provides financial technology platforms for major institutions globally.",
+        "contactEmail": "hiring@evergreen.com",
+        "contactPhone": "555-333-4444"
+      }
+    }
+  ]
+}
