@@ -11,14 +11,14 @@ export default defineConfig({
       port: 3000,
       proxy: {
         '/api': {
-          target: 'http://localhost:8000',
+          target: 'https://hireflow-13.onrender.com',
           changeOrigin: true,
           rewrite: (path) => path.replace(/^\/api/, ''),
         },
       },
   },
   preview: {
-    allowedHosts: ['hireflow-5.onrender.com'],
+    allowedHosts: ['hireflow-5.onrender.com','hireflow-13.onrender.com'],
     host: '0.0.0.0',
     port: process.env.PORT || 4173
   },
