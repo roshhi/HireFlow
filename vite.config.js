@@ -16,8 +16,10 @@ export default defineConfig({
           rewrite: (path) => path.replace(/^\/api/, ''),
         },
       },
-      preview: {
-        allowedHosts: ['hireflow-5.onrender.com']
-      }
+  },
+  preview: {
+    allowedHosts: ['hireflow-5.onrender.com'],
+    host: '0.0.0.0',
+    port: process.env.PORT || 4173
   },
 })
