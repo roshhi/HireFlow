@@ -16,5 +16,8 @@ export default defineConfig({
           rewrite: (path) => path.replace(/^\/api/, ''),
         },
       },
+      preview: {
+        allowedHosts: ['hireflow-5.onrender.com']
+      }
   },
 })
