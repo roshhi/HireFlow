@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "echo 'No build step needed for backend'",
-    "start": "json-server --watch jobs.json --port $PORT --static ."
+    "start": "json-server --watch jobs.json --port $PORT"
   },
   "keywords": [],
   "author": "",
