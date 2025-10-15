@@ -1,4 +1,4 @@
-## 🧭 Job Listing Website
+## Job Listing Website
 
 ## Preview:
 
@@ -10,13 +10,13 @@
 
 ## Features
 
-- 🏠 **Home Page:** Displays all available job listings fetched from a mock API.  
-- 📄 **Job Details Page:** Shows complete details of a selected job (via dynamic route `/jobs/:id`).  
-- ➕ **Add Job Page:** Allows users to create and submit a new job listing.  
-- 🗑️ **Delete Option:** Enables deletion of existing job posts.  
-- 🔍 **Dynamic Routing:** Uses React Router v6 for smooth page transitions.  
-- ⚡ **Mock API Integration:** Uses JSON Server for backend data management.  
-- 🎨 **Fully Responsive UI:** Styled using Tailwind CSS with a clean and modern layout.  
+- **Home Page:** Displays all available job listings fetched from a mock API.  
+- **Job Details Page:** Shows complete details of a selected job (via dynamic route `/jobs/:id`).  
+- **Add Job Page:** Allows users to create and submit a new job listing.  
+- **Delete Option:** Enables deletion of existing job posts.  
+- **Dynamic Routing:** Uses React Router v6 for smooth page transitions.  
+- **Mock API Integration:** Uses JSON Server for backend data management.  
+- **Fully Responsive UI:** Styled using Tailwind CSS with a clean and modern layout.  
 
 ---
 
